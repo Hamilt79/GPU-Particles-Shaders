@@ -10,6 +10,6 @@ Ball instances merge towards their shared center the closer they get to one anot
 # Rope Shader
 
 Rope instances each go half way to one another. This causes two rope instances to snap together in the center and be attached.
-Has some artificial gravity/drag, but it's very basic.\
+Has some artificial gravity/drag, but it's very basic.
 
 ![image](https://github.com/user-attachments/assets/1d491ca3-cdae-4f5a-9d41-d27948e828a5)
